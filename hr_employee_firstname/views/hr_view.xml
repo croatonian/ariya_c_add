@@ -13,6 +13,7 @@
                 <group>
                     <field name="firstname" required="not lastname" />
                     <field name="lastname" required="not firstname" />
+                    <field name="lastname2" />
                 </group>
             </xpath>
         </field>
